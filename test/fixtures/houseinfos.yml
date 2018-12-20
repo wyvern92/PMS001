@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  house_id: 1
+  house_addrs: MyString
+  house_description: MyString
+  house_price: 9.99
+  house_guest: 1
+
+two:
+  house_id: 1
+  house_addrs: MyString
+  house_description: MyString
+  house_price: 9.99
+  house_guest: 1
